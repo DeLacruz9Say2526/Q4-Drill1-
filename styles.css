@@ -1,0 +1,22 @@
+#div{
+margin-top: 300px;
+margin-left: 250px;
+width: 990px;
+background-color: rgb(229, 205, 255);
+align-items: center;
+text-align: center;
+padding: 20px;
+border-radius: 10px;
+}
+
+#kwh{
+    float: right;
+    background-color: rgb(38, 5, 68, 0.8);
+    color: rgb(229, 205, 255);
+    border-radius: 10px;
+}
+
+#title{
+    height: 20px;
+    color: rgb(38, 5, 68);
+}
